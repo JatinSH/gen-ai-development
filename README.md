@@ -1,5 +1,3 @@
-This repository is dedicated to my journey through DeepLearning.AI's Generative AI for Software Development specialization. Here, I upload all the code, Jupyter notebooks, and resources related to my learnings and hands-on exercises from the specialization.
-
 ## Getting Started
 
 1. Run the setup script to create a virtual environment, install dependencies, and set up the Jupyter kernel:

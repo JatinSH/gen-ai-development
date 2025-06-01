@@ -1,2 +1,5 @@
 jupyter
-ipykernel 
+ipykernel
+openai
+langchain
+load_dotenvwhoami
